@@ -1,1 +1,32 @@
-/gitrepo/FINANCE/HR/BASE/QUA/QRPGSRC/ARS277.RPG
+     H*
+     H********************************************************************
+     H*
+     H**  CHANGE FOR WEBINAR PROJECT XXXXedit                            *
+     H**  CHANGE FOR FINANCE UPDATE
+     H**
+     H*   CHANGE BY ANDY FOR JPMC THURSDAY
+     H*   CHANGE BY ANDY FOR GIT UPDATE MON11520000AF
+     H********************************************************************
+     H*
+     FMASTERL1IF  E           K        DISK
+     F            ACTGLP                            KRENAMERPGID2
+     C           *ENTRY    PLIST
+     C                     PARM           CHECK   10
+     C           CHECK     IFLT 3
+     C                     MOVE '1'       *IN90
+     C                     ENDIF
+     C                     READ MASTERL1                 90
+     C           *IN90     IFEQ '3'
+     C                     GOTO ENDFIL
+     C                     END
+     C                     READ MASTERL1                 90
+     C           *IN90     IFEQ '1'
+     C                     GOTO ENDFIL
+     C                     END
+     C           *IN90     IFEQ '2'
+     C                     GOTO ENDFIL
+     C                     END
+     C*
+     C           ENDFIL    TAG
+     C                     MOVE '1'       *INLR
+     C                     RETRN
