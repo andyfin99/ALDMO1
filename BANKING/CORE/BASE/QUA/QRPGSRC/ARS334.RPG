@@ -1,14 +1,1 @@
-      ** SAMPLE RPG USING QTEMP FILE
-      **   CHECKOUT FILE QTMASTER
-      **   PROMOTE FILE QTMASTER TOGETHER WITH ARS334
-      **   FILE QTMASTER WILL NOT BE DEPLOYED TO THE TARGET LIBRARY IN P
-      **
-      ** CHANGE LOG:
-      **             = YHCHONG CHG 1
-      **
-     FQTMASTERIF  E           K        DISK
-     C                     READ QTMASTER                 99
-      **
-      ** ADDITIONAL COMMENT LINE FOR AEON DEMO
-      ** ADDITIONAL COMMENT LINE FOR CHARLES DEMO
-     C                     MOVE '1'       *INLR
+/gitrepo/BANKING/CORE/BASE/PDN/QRPGSRC/ARS334.RPG
