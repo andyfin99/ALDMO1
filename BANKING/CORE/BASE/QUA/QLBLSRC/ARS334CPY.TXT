@@ -1,2 +1,1 @@
-      * COPYBOOK.
-      * samples LINE1
+/gitrepo/BANKING/CORE/BASE/PDN/QLBLSRC/ARS334CPY.TXT
