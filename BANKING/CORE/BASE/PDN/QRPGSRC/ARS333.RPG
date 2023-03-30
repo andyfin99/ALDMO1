@@ -1,0 +1,8 @@
+     FMASTER  IF  E           K        DISK
+     FARS333DSIF  E                    WORKSTN
+     C                     READ ARS333DS                 88
+     C                     READ MASTER                   99
+      **
+      ** ADDITIONAL COMMENT LINE FOR AEON DEMO
+      ** ADDITIONAL COMMENT LINE FOR CHARLES DEMO
+     C                     MOVE '1'       *INLR
