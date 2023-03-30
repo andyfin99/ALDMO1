@@ -1,1 +1,4 @@
-/gitrepo/BANKING/CORE/BASE/PDN/QDDSSRC/MASTER.PF
+     A          R ACTGLP                    TEXT('MIN     PF')
+     A            CARREG        10A
+     A            OWNERN        20A
+     A          K CARREG
