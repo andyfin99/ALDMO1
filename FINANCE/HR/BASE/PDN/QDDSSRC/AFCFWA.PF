@@ -1,2 +1,2 @@
      A          R ACTGLP                    TEXT('MINIMUM PF')
-     A            FIELD1        10          TEXT('ONE BYTE FIELD')
+     A            FIELD1        11          TEXT('ONE BYTE FIELD')
