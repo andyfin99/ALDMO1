@@ -3,6 +3,7 @@
       *            Use for showing back out
       * Change Log
       * Change Log : yhchong bug
+      * Change Log : suwandi bug
       * Base Ver : Banking / Core / Base
       *
      D Name            s             30A
