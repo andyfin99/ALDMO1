@@ -1,1 +1,2 @@
-/gitrepo/FINANCE/HR/BASE/QUA/QDDSSRC/ACTGLP.PF
+     A          R ACTGLP                    TEXT('Minimum PF')
+     A            FIELD1         4          TEXT('One byte field')
