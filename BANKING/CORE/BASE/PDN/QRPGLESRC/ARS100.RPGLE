@@ -7,7 +7,7 @@
      D Name            s             30A
      D wait            s              1A
       /free
-       Name = 'emer + v1';
+       Name = 'emer + v1.00';
        Dsply ('Hello, ' + Name) ''wait ;
        *inlr = '1' ;
       /end-free
