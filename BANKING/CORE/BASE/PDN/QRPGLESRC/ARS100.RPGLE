@@ -3,6 +3,7 @@
       *            Use for showing back out
       * Change Log
       * Base Ver : Banking / Core / Base
+      * Base Ver : 2.0
       *
      D Name            s             30A
      D wait            s              1A
